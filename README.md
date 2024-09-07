@@ -4,8 +4,8 @@ Forked from https://github.com/andreitere/coolify-nginx-reverse-proxy/ and all c
 
 # running on coolify
 
-- Docker Image: `ghcr.io/sehlceris/coolify-nginx-reverse-proxy:latest`
-- Env Var `PROXY_HOST` example: `http://192.168.1.21:8123`
+- Docker Image: `ghcr.io/sehlceris/coolify-nginx-reverse-proxy` Tag: `latest`
+- Env Var `PROXY_HOST` set to something like: `http://192.168.1.21:8123`
 
 # running locally
 
